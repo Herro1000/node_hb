@@ -1,0 +1,17 @@
+{
+  "name": "node_hb",
+  "version": "1.0.0",
+  "description": "Simple Express Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*",
+    "nodemon": "^2.0.19"
+  },
+  "author": "Bufalo",
+  "license": "ISC"
+}
